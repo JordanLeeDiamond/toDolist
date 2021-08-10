@@ -11,6 +11,19 @@ h1 {
 body {
     align-content: center;
     text-align: center;
+    padding-top: 25px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+input {
+    margin-top: 25px;
+    margin-bottom: 10px;
+    height: 20px;
+}
+
+button {
+    width: 20px;
+    height: 20px;
 }
 
 ul {
